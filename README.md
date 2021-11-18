@@ -10,3 +10,5 @@ A graph editor where introduce the list of edges and draw the graph using matplo
 
 # Usage
 Install main.py, algorithms.py and Graph_Hero_Icon.ico in same directory and compile main.py
+
+![plot](./example graph.png)
